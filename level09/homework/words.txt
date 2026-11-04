@@ -1,0 +1,9 @@
+ვისწავლეთ ახალი სიტყვები:
+
+order - დალაგებული
+unorder - დაულაგებელი
+contain - მოიცავს
+item - ნივთი
+attribute - ატრიუბტი
+optional  - არჩევითი
+required - საჭირო 
